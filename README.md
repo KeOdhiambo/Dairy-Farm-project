@@ -10,7 +10,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This project entails a detailes website of a Agricultural Dairy Farm company, the company seeks to automate the milk production records to 
+<p>This project entails detailes website of a Agricultural Dairy Farm company, the company seeks to automate the milk production records to 
 make it easier for monitoring the production at the farm</p>
 
 ## Licence
