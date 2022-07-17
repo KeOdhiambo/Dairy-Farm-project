@@ -1,35 +1,52 @@
 @import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Space+Grotesk&display=swap');
 
-*{
+* {
     text-decoration: none;
     list-style: none;
-    color: blue;
-    padding: 0;
+    color: black padding;
     margin: 0%;
     box-sizing: border-box;
 }
 
-body{
+body {
     font-family: poppin, sans-serif;
     width: 100vw;
     height: 100vw;
 }
 
-h1{
+h1 {
     font-size: 1.5rem;
     font-weight: 900;
 }
-h4{
+
+h4 {
     font-size: 0.9rem;
 }
-.container{
+
+.container {
     display: grid;
     width: 96%;
     margin: 0 auto;
     gap: 1.8;
     grid-template-columns: 14rem auto 23rem;
 }
-aside{
+
+aside {
     height: 100vh;
-    background-color: chartreuse;
+    background-color: limegreen;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.side-bar{
+    display: flex;
+    flex-direction: column;
+    height: 86vh;
+    position: relative;
+    top: 2rem;
 }
