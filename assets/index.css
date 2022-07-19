@@ -76,10 +76,30 @@ aside {
 .shade-1{
     display: flex;
     flex-direction: column;
+    gap: 3rem;
+}
+
+.shade-2{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
 }
 .shade{
     display: flex;
     justify-content: space-between;
     width: 80%;
     margin: auto;
+    margin-top: 2rem;
+}
+
+.production h3{
+    text-align: center;
+    margin-right: 20rem;
+}
+.date{
+    margin-left: 3rem;
+}
+
+main{
+    background-color: aqua;
 }
